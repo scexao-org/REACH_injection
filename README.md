@@ -1,6 +1,6 @@
 # REACH_injection
 
-Tools for single mode fiber injection optimization on SCExAO
+Tools for single mode fiber injection optimization on SCExAO.
 Any question, contact vievard@naoj.org
 
 ----------
