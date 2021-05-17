@@ -1,3 +1,9 @@
+### Injection optimization for the REACH module on SCExAO
+### Author : Sebastien Vievard
+
+
+
+
 import pygame, sys
 from pygame.locals import *
 import numpy as np

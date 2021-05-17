@@ -1,3 +1,7 @@
+### Optimization of the Zernikes applied on SCExAO deformable mirror for the REACH injection
+### Author : Sebastien Vievard
+
+
 
 import pygame, sys
 from pygame.locals import *
